@@ -1,0 +1,30 @@
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+nav ul li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 10px;
+    font-style: normal;
+}
+nav ul li{
+    float: left;
+    overflow: hidden;
+    
+    font-size:30px;
+    background-color: blue;
+    
+}
+nav ul li a:hover{
+    background-color: black;
+}
+div{
+    font-size: 20px
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: blue;
+}
